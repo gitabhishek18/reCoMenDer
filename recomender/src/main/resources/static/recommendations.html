@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recommendations</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body onload="initRecommendationsPage()">
+  <div id="navbarRoot"></div>
+
+  <div class="container">
+    <div class="page-header">
+      <h1>Recommendations</h1>
+      <p>Choose a strategy, tune how many results you want, and let the backend speak.</p>
+    </div>
+
+    <div class="grid-2">
+      <div class="card">
+        <label for="strategy">Recommendation strategy</label>
+        <select id="strategy">
+          <option value="popular">popular</option>
+          <option value="cf">cf</option>
+          <option value="content">content</option>
+          <option value="hybrid">hybrid</option>
+        </select>
+
+        <label for="kValue">Number of recommendations</label>
+        <input type="number" id="kValue" value="10" min="1" max="50" />
+
+        <div class="card-actions">
+          <button class="primary-btn" onclick="loadRecommendations()">Get recommendations</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="kicker">Tip</div>
+        <h3 style="margin-bottom:10px;">A good starting rhythm</h3>
+        <p class="muted" style="line-height:1.7;">
+          If you want something easy, begin with <strong>hybrid</strong>. If you want to inspect the model’s behavior,
+          try <strong>popular</strong>, <strong>cf</strong>, and <strong>content</strong> one by one.
+        </p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div id="recommendationsContainer" class="empty-state">
+        Pick a strategy and let the recommender cook.
+      </div>
+    </div>
+  </div>
+
+  <script src="common.js"></script>
+  <script src="recommendations.js"></script>
+</body>
+</html>

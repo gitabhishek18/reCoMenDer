@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Search Movies</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body onload="initSearchPage()">
+  <div id="navbarRoot"></div>
+
+  <div class="container">
+    <div class="page-header">
+      <h1>Search Movies</h1>
+      <p>Type a title and the catalog will whisper back suggestions. Open details or rate instantly if you’re logged in.</p>
+    </div>
+
+    <div class="search-shell">
+      <div class="search-panel">
+        <div class="card">
+          <label for="searchQuery">Movie title</label>
+          <div class="search-wrapper">
+            <input type="text" id="searchQuery" placeholder="Try The Matrix, Inception, Batman..." autocomplete="off" />
+            <div id="suggestions" class="suggestions"></div>
+          </div>
+
+          <div class="card-actions">
+            <button class="primary-btn" onclick="runSearch()">Search</button>
+          </div>
+
+          <div id="searchMessage"></div>
+
+          <div class="preview-lock" id="searchSideNote"></div>
+        </div>
+      </div>
+
+      <div>
+        <div class="card">
+          <h2 style="margin-bottom:8px;">Results</h2>
+          <p class="muted" style="margin-bottom:14px;">Click a title for details. Logged-in users can rate from here without leaving the page.</p>
+          <div id="searchResults" class="empty-state">No search yet. Start with a title above.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="common.js"></script>
+  <script src="search.js"></script>
+</body>
+</html>

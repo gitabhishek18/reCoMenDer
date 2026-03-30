@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard - Movie Recommender</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body onload="initDashboard()">
+  <div class="container">
+    <div class="topbar">
+      <div>
+        <h1>Movie Recommender Dashboard</h1>
+        <p class="small-text">Frontend connected to Spring Boot backend</p>
+      </div>
+      <button class="logout-btn" onclick="logout()">Logout</button>
+    </div>
+
+    <div class="card">
+      <h2>My Profile</h2>
+      <div id="profileSection">Loading profile...</div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <h2>Search Movies</h2>
+
+        <label for="searchQuery">Search by movie title</label>
+        <div class="inline-row">
+          <input type="text" id="searchQuery" placeholder="Search by movie title" />
+          <button onclick="searchMovies()">Search</button>
+        </div>
+
+        <div id="movieResults"></div>
+      </div>
+
+      <div class="card">
+        <h2>Rate a Movie</h2>
+
+        <label for="rateMovieId">Movie ID</label>
+        <input type="number" id="rateMovieId" placeholder="Movie ID" />
+
+        <label for="rateValue">Rating</label>
+        <select id="rateValue">
+          <option value="">Select rating</option>
+          <option value="0.5">0.5</option>
+          <option value="1.0">1.0</option>
+          <option value="1.5">1.5</option>
+          <option value="2.0">2.0</option>
+          <option value="2.5">2.5</option>
+          <option value="3.0">3.0</option>
+          <option value="3.5">3.5</option>
+          <option value="4.0">4.0</option>
+          <option value="4.5">4.5</option>
+          <option value="5.0">5.0</option>
+        </select>
+
+        <button onclick="submitRating()">Submit Rating</button>
+        <div id="ratingMessage"></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>My Ratings</h2>
+      <button class="secondary-btn" onclick="loadMyRatings()">Refresh Ratings</button>
+      <div id="myRatings">Loading ratings...</div>
+    </div>
+
+    <div class="card">
+      <h2>Recommendations</h2>
+
+      <label for="strategy">Recommendation Strategy</label>
+      <select id="strategy">
+        <option value="popular">popular</option>
+        <option value="cf">cf</option>
+        <option value="content">content</option>
+        <option value="hybrid">hybrid</option>
+      </select>
+
+      <label for="kValue">Number of Recommendations</label>
+      <input type="number" id="kValue" value="10" min="1" max="50" placeholder="How many recommendations?" />
+
+      <button onclick="loadRecommendations()">Get Recommendations</button>
+
+      <div id="recommendations"></div>
+    </div>
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+</html>

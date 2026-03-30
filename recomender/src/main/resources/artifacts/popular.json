@@ -1,0 +1,4002 @@
+[
+  {
+    "movieId": 318,
+    "title": "Shawshank Redemption, The (1994)",
+    "score": 4.41491598436262,
+    "avgRating": 4.416792045528881,
+    "ratingCount": 122296,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 159817,
+    "title": "Planet Earth (2006)",
+    "score": 4.375438721018403,
+    "avgRating": 4.448092868988391,
+    "ratingCount": 3015,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 170705,
+    "title": "Band of Brothers (2001)",
+    "score": 4.34915691655853,
+    "avgRating": 4.423985890652557,
+    "ratingCount": 2835,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 171011,
+    "title": "Planet Earth II (2016)",
+    "score": 4.347954916448926,
+    "avgRating": 4.451739343459089,
+    "ratingCount": 2041,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 858,
+    "title": "Godfather, The (1972)",
+    "score": 4.323862889812246,
+    "avgRating": 4.32660258119567,
+    "ratingCount": 75004,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 202439,
+    "title": "Parasite (2019)",
+    "score": 4.313590911980597,
+    "avgRating": 4.3299459633841435,
+    "ratingCount": 12399,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1221,
+    "title": "Godfather: Part II, The (1974)",
+    "score": 4.265487611551696,
+    "avgRating": 4.269509847475196,
+    "ratingCount": 47271,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 50,
+    "title": "Usual Suspects, The (1995)",
+    "score": 4.265257642947924,
+    "avgRating": 4.267865227113715,
+    "ratingCount": 72893,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1203,
+    "title": "12 Angry Men (1957)",
+    "score": 4.258869574544353,
+    "avgRating": 4.267157941047074,
+    "ratingCount": 22730,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 527,
+    "title": "Schindler's List (1993)",
+    "score": 4.240158448754344,
+    "avgRating": 4.242336641656378,
+    "ratingCount": 84232,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2019,
+    "title": "Seven Samurai (Shichinin no samurai) (1954)",
+    "score": 4.2401017159004954,
+    "avgRating": 4.2508177570093455,
+    "ratingCount": 17120,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2959,
+    "title": "Fight Club (1999)",
+    "score": 4.233909889296846,
+    "avgRating": 4.23601911677706,
+    "ratingCount": 86207,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5618,
+    "title": "Spirited Away (Sen to Chihiro no kamikakushi) (2001)",
+    "score": 4.220991304997428,
+    "avgRating": 4.226035335689046,
+    "ratingCount": 35375,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 904,
+    "title": "Rear Window (1954)",
+    "score": 4.216230034850089,
+    "avgRating": 4.223027931246163,
+    "ratingCount": 26064,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1193,
+    "title": "One Flew Over the Cuckoo's Nest (1975)",
+    "score": 4.209245610591144,
+    "avgRating": 4.212801119312191,
+    "ratingCount": 49316,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 750,
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+    "score": 4.194991994896879,
+    "avgRating": 4.199991259759935,
+    "ratingCount": 34324,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 912,
+    "title": "Casablanca (1942)",
+    "score": 4.1909906525116405,
+    "avgRating": 4.195889466578577,
+    "ratingCount": 34813,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 296,
+    "title": "Pulp Fiction (1994)",
+    "score": 4.190211689040427,
+    "avgRating": 4.191777924896098,
+    "ratingCount": 108756,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1213,
+    "title": "Goodfellas (1990)",
+    "score": 4.188110313844573,
+    "avgRating": 4.19191783279512,
+    "ratingCount": 44592,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 44555,
+    "title": "Lives of Others, The (Das leben der Anderen) (2006)",
+    "score": 4.1879655619131295,
+    "avgRating": 4.201409789323618,
+    "ratingCount": 12626,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 58559,
+    "title": "Dark Knight, The (2008)",
+    "score": 4.184953790884264,
+    "avgRating": 4.1875392125357696,
+    "ratingCount": 65349,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 179135,
+    "title": "Blue Planet II (2017)",
+    "score": 4.180515116011977,
+    "avgRating": 4.312943962115233,
+    "ratingCount": 1267,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 908,
+    "title": "North by Northwest (1959)",
+    "score": 4.179679767339399,
+    "avgRating": 4.187337202394553,
+    "ratingCount": 21883,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6016,
+    "title": "City of God (Cidade de Deus) (2002)",
+    "score": 4.177460255077837,
+    "avgRating": 4.1835973391157335,
+    "ratingCount": 27209,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 166024,
+    "title": "Whiplash (2013)",
+    "score": 4.1773253323781505,
+    "avgRating": 4.2319908316961365,
+    "ratingCount": 3054,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 195159,
+    "title": "Spider-Man: Into the Spider-Verse (2018)",
+    "score": 4.176730187253169,
+    "avgRating": 4.192053284336242,
+    "ratingCount": 10885,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 79132,
+    "title": "Inception (2010)",
+    "score": 4.173635360729625,
+    "avgRating": 4.176186669945893,
+    "ratingCount": 65056,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 922,
+    "title": "Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)",
+    "score": 4.172718718655038,
+    "avgRating": 4.189934559052665,
+    "ratingCount": 9627,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1212,
+    "title": "Third Man, The (1949)",
+    "score": 4.163961019653913,
+    "avgRating": 4.18157809636736,
+    "ratingCount": 9277,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3435,
+    "title": "Double Indemnity (1944)",
+    "score": 4.162037454268056,
+    "avgRating": 4.186036235086169,
+    "ratingCount": 6789,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 198185,
+    "title": "Twin Peaks (1989)",
+    "score": 4.159274643367976,
+    "avgRating": 4.302561837455831,
+    "ratingCount": 1132,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2571,
+    "title": "Matrix, The (1999)",
+    "score": 4.159116168875021,
+    "avgRating": 4.160630884770588,
+    "ratingCount": 107056,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2324,
+    "title": "Life Is Beautiful (La Vita è bella) (1997)",
+    "score": 4.158547560324739,
+    "avgRating": 4.163542469554494,
+    "ratingCount": 32435,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3000,
+    "title": "Princess Mononoke (Mononoke-hime) (1997)",
+    "score": 4.157157668208033,
+    "avgRating": 4.166026555470207,
+    "ratingCount": 18226,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5971,
+    "title": "My Neighbor Totoro (Tonari no Totoro) (1988)",
+    "score": 4.152048492082837,
+    "avgRating": 4.163490364025696,
+    "ratingCount": 14010,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1178,
+    "title": "Paths of Glory (1957)",
+    "score": 4.151727991733139,
+    "avgRating": 4.180317630264097,
+    "ratingCount": 5604,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 112552,
+    "title": "Whiplash (2014)",
+    "score": 4.149419525106003,
+    "avgRating": 4.157039194156681,
+    "ratingCount": 20947,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 593,
+    "title": "Silence of the Lambs, The (1991)",
+    "score": 4.148720796820637,
+    "avgRating": 4.150286831299974,
+    "ratingCount": 101802,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 163809,
+    "title": "Over the Garden Wall (2013)",
+    "score": 4.146005981983653,
+    "avgRating": 4.256993006993007,
+    "ratingCount": 1430,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 109487,
+    "title": "Interstellar (2014)",
+    "score": 4.14308197835605,
+    "avgRating": 4.1469718986281805,
+    "ratingCount": 40603,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4226,
+    "title": "Memento (2000)",
+    "score": 4.140885465150563,
+    "avgRating": 4.143713274272673,
+    "ratingCount": 55649,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3030,
+    "title": "Yojimbo (1961)",
+    "score": 4.1370294511969155,
+    "avgRating": 4.167050691244239,
+    "ratingCount": 5208,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 926,
+    "title": "All About Eve (1950)",
+    "score": 4.136148485812626,
+    "avgRating": 4.161099568483299,
+    "ratingCount": 6257,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1252,
+    "title": "Chinatown (1974)",
+    "score": 4.136009330979526,
+    "avgRating": 4.143090463660285,
+    "ratingCount": 22042,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1136,
+    "title": "Monty Python and the Holy Grail (1975)",
+    "score": 4.133848593321243,
+    "avgRating": 4.137098965409134,
+    "ratingCount": 47845,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2329,
+    "title": "American History X (1998)",
+    "score": 4.131218551902278,
+    "avgRating": 4.134989648033126,
+    "ratingCount": 41055,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 48516,
+    "title": "Departed, The (2006)",
+    "score": 4.130543439132874,
+    "avgRating": 4.13478248951509,
+    "ratingCount": 36481,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1234,
+    "title": "Sting, The (1973)",
+    "score": 4.129073576755743,
+    "avgRating": 4.136978579481398,
+    "ratingCount": 19514,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1207,
+    "title": "To Kill a Mockingbird (1962)",
+    "score": 4.12859371102929,
+    "avgRating": 4.136409736308316,
+    "ratingCount": 19720,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 163134,
+    "title": "Your Name. (2016)",
+    "score": 4.128405455031721,
+    "avgRating": 4.16751269035533,
+    "ratingCount": 3940,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1260,
+    "title": "M (1931)",
+    "score": 4.126865923430422,
+    "avgRating": 4.152763734411864,
+    "ratingCount": 5934,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1201,
+    "title": "Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",
+    "score": 4.125474886967464,
+    "avgRating": 4.131910338748268,
+    "ratingCount": 23823,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 930,
+    "title": "Notorious (1946)",
+    "score": 4.124699663125806,
+    "avgRating": 4.149450371807307,
+    "ratingCount": 6186,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 92259,
+    "title": "Intouchables (2011)",
+    "score": 4.123803785056993,
+    "avgRating": 4.131424156323214,
+    "ratingCount": 20061,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1284,
+    "title": "Big Sleep, The (1946)",
+    "score": 4.121721425489429,
+    "avgRating": 4.143364592213697,
+    "ratingCount": 7038,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 48780,
+    "title": "Prestige, The (2006)",
+    "score": 4.118196045571084,
+    "avgRating": 4.122642894906891,
+    "ratingCount": 34046,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1217,
+    "title": "Ran (1985)",
+    "score": 4.116873527830706,
+    "avgRating": 4.1400122549019605,
+    "ratingCount": 6528,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1196,
+    "title": "Star Wars: Episode V - The Empire Strikes Back (1980)",
+    "score": 4.116148889893471,
+    "avgRating": 4.118029925187033,
+    "ratingCount": 80200,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 608,
+    "title": "Fargo (1996)",
+    "score": 4.112904693565205,
+    "avgRating": 4.115325039934169,
+    "ratingCount": 61977,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1208,
+    "title": "Apocalypse Now (1979)",
+    "score": 4.112685241300304,
+    "avgRating": 4.117092886537331,
+    "ratingCount": 34020,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 142115,
+    "title": "The Blue Planet (2001)",
+    "score": 4.111458024942908,
+    "avgRating": 4.25,
+    "ratingCount": 1080,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1172,
+    "title": "Cinema Paradiso (Nuovo cinema Paradiso) (1989)",
+    "score": 4.110760116330333,
+    "avgRating": 4.123029556650247,
+    "ratingCount": 12180,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 541,
+    "title": "Blade Runner (1982)",
+    "score": 4.110579843352482,
+    "avgRating": 4.113712129153999,
+    "ratingCount": 47695,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 913,
+    "title": "Maltese Falcon, The (1941)",
+    "score": 4.110343429654459,
+    "avgRating": 4.119897632757517,
+    "ratingCount": 15630,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 31658,
+    "title": "Howl's Moving Castle (Hauru no ugoku shiro) (2004)",
+    "score": 4.109757865871777,
+    "avgRating": 4.1188148867706875,
+    "ratingCount": 16471,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 903,
+    "title": "Vertigo (1958)",
+    "score": 4.108812060438175,
+    "avgRating": 4.11598074608905,
+    "ratingCount": 20775,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7153,
+    "title": "Lord of the Rings: The Return of the King, The (2003)",
+    "score": 4.1082109947541845,
+    "avgRating": 4.11018116325882,
+    "ratingCount": 75512,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1197,
+    "title": "Princess Bride, The (1987)",
+    "score": 4.1079722584642475,
+    "avgRating": 4.110901033973412,
+    "ratingCount": 50775,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 171495,
+    "title": "Cosmos",
+    "score": 4.106067711146763,
+    "avgRating": 4.3432,
+    "ratingCount": 625,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1204,
+    "title": "Lawrence of Arabia (1962)",
+    "score": 4.10578168977883,
+    "avgRating": 4.114418143656716,
+    "ratingCount": 17152,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1704,
+    "title": "Good Will Hunting (1997)",
+    "score": 4.103917023469006,
+    "avgRating": 4.106602400873045,
+    "ratingCount": 54980,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1148,
+    "title": "Wallace & Gromit: The Wrong Trousers (1993)",
+    "score": 4.103270844512107,
+    "avgRating": 4.111200731300747,
+    "ratingCount": 18597,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 950,
+    "title": "Thin Man, The (1934)",
+    "score": 4.102309065227253,
+    "avgRating": 4.139336016096579,
+    "ratingCount": 3976,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1248,
+    "title": "Touch of Evil (1958)",
+    "score": 4.100710282858259,
+    "avgRating": 4.12552831783601,
+    "ratingCount": 5915,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1233,
+    "title": "Boot, Das (Boat, The) (1981)",
+    "score": 4.099606591250264,
+    "avgRating": 4.108198451794511,
+    "ratingCount": 17052,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2858,
+    "title": "American Beauty (1999)",
+    "score": 4.099553739435592,
+    "avgRating": 4.101649452090069,
+    "ratingCount": 69902,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1198,
+    "title": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",
+    "score": 4.099094014481311,
+    "avgRating": 4.101039230278546,
+    "ratingCount": 75248,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4993,
+    "title": "Lord of the Rings: The Fellowship of the Ring, The (2001)",
+    "score": 4.0975049328266815,
+    "avgRating": 4.099330748061046,
+    "ratingCount": 79940,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1209,
+    "title": "Once Upon a Time in the West (C'era una volta il West) (1968)",
+    "score": 4.09529043146031,
+    "avgRating": 4.1148666846215995,
+    "ratingCount": 7426,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 293,
+    "title": "Léon: The Professional (a.k.a. The Professional) (Léon) (1994)",
+    "score": 4.094212321982976,
+    "avgRating": 4.097544730012173,
+    "ratingCount": 43539,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1089,
+    "title": "Reservoir Dogs (1992)",
+    "score": 4.0909959879664415,
+    "avgRating": 4.094178913456022,
+    "ratingCount": 45318,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 260,
+    "title": "Star Wars: Episode IV - A New Hope (1977)",
+    "score": 4.090916617529352,
+    "avgRating": 4.092400362132467,
+    "ratingCount": 97202,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7099,
+    "title": "Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984)",
+    "score": 4.090302599249055,
+    "avgRating": 4.10926803580832,
+    "ratingCount": 7596,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1254,
+    "title": "Treasure of the Sierra Madre, The (1948)",
+    "score": 4.090202056404415,
+    "avgRating": 4.112002421673982,
+    "ratingCount": 6607,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1147,
+    "title": "When We Were Kings (1996)",
+    "score": 4.089303831655106,
+    "avgRating": 4.123484668409793,
+    "ratingCount": 4207,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 176601,
+    "title": "Black Mirror",
+    "score": 4.089022789333075,
+    "avgRating": 4.2247403210576016,
+    "ratingCount": 1059,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 160718,
+    "title": "Piper (2016)",
+    "score": 4.088849395373712,
+    "avgRating": 4.160438465371201,
+    "ratingCount": 2007,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1945,
+    "title": "On the Waterfront (1954)",
+    "score": 4.0887057751348435,
+    "avgRating": 4.108312858312859,
+    "ratingCount": 7326,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 905,
+    "title": "It Happened One Night (1934)",
+    "score": 4.087938272338962,
+    "avgRating": 4.1152965859240895,
+    "ratingCount": 5243,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 745,
+    "title": "Wallace & Gromit: A Close Shave (1995)",
+    "score": 4.0864099749157115,
+    "avgRating": 4.096215808596695,
+    "ratingCount": 14587,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 27773,
+    "title": "Old Boy (2003)",
+    "score": 4.085865615318798,
+    "avgRating": 4.093858373419845,
+    "ratingCount": 17878,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 47,
+    "title": "Seven (a.k.a. Se7en) (1995)",
+    "score": 4.085572178062739,
+    "avgRating": 4.087747083726739,
+    "ratingCount": 65666,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 898,
+    "title": "Philadelphia Story, The (1940)",
+    "score": 4.084066408825053,
+    "avgRating": 4.101242161119151,
+    "ratingCount": 8292,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4973,
+    "title": "Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",
+    "score": 4.08371051307264,
+    "avgRating": 4.08682156987038,
+    "ratingCount": 45749,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5291,
+    "title": "Rashomon (Rashômon) (1950)",
+    "score": 4.083297961228652,
+    "avgRating": 4.106243949661181,
+    "ratingCount": 6198,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 26082,
+    "title": "Harakiri (Seppuku) (1962)",
+    "score": 4.081351538833868,
+    "avgRating": 4.1918876755070205,
+    "ratingCount": 1282,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5690,
+    "title": "Grave of the Fireflies (Hotaru no haka) (1988)",
+    "score": 4.080827871757293,
+    "avgRating": 4.101209329110279,
+    "ratingCount": 6946,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3089,
+    "title": "Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948)",
+    "score": 4.080080824522999,
+    "avgRating": 4.108164481525626,
+    "ratingCount": 5034,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1262,
+    "title": "Great Escape, The (1963)",
+    "score": 4.079375621582155,
+    "avgRating": 4.089593284122159,
+    "ratingCount": 13818,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2186,
+    "title": "Strangers on a Train (1951)",
+    "score": 4.078973632206942,
+    "avgRating": 4.099420289855073,
+    "ratingCount": 6900,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5952,
+    "title": "Lord of the Rings: The Two Towers, The (2002)",
+    "score": 4.0789545385733375,
+    "avgRating": 4.080869081384776,
+    "ratingCount": 73687,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6818,
+    "title": "Come and See (Idi i smotri) (1985)",
+    "score": 4.078621387470705,
+    "avgRating": 4.1725516322451695,
+    "ratingCount": 1501,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 111,
+    "title": "Taxi Driver (1976)",
+    "score": 4.077725190199378,
+    "avgRating": 4.081329543417582,
+    "ratingCount": 39051,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1280,
+    "title": "Raise the Red Lantern (Da hong deng long gao gao gua) (1991)",
+    "score": 4.075614606871686,
+    "avgRating": 4.112258233141662,
+    "ratingCount": 3826,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 98491,
+    "title": "Paperman (2012)",
+    "score": 4.0713164309490315,
+    "avgRating": 4.107990506329114,
+    "ratingCount": 3792,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 96829,
+    "title": "Hunt, The (Jagten) (2012)",
+    "score": 4.067592623341118,
+    "avgRating": 4.0947327044025155,
+    "ratingCount": 5088,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3307,
+    "title": "City Lights (1931)",
+    "score": 4.067038050274467,
+    "avgRating": 4.100658055081648,
+    "ratingCount": 4103,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 356,
+    "title": "Forrest Gump (1994)",
+    "score": 4.066974879023034,
+    "avgRating": 4.068189221788855,
+    "ratingCount": 113581,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4011,
+    "title": "Snatch (2000)",
+    "score": 4.066955478666854,
+    "avgRating": 4.071056857380754,
+    "ratingCount": 33628,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6350,
+    "title": "Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)",
+    "score": 4.06686831581872,
+    "avgRating": 4.084597582926202,
+    "ratingCount": 7778,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1250,
+    "title": "Bridge on the River Kwai, The (1957)",
+    "score": 4.0668444800684105,
+    "avgRating": 4.075576241134752,
+    "ratingCount": 15792,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7361,
+    "title": "Eternal Sunshine of the Spotless Mind (2004)",
+    "score": 4.06673156755447,
+    "avgRating": 4.069709669057288,
+    "ratingCount": 46292,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1214,
+    "title": "Alien (1979)",
+    "score": 4.066546132753247,
+    "avgRating": 4.069505282143777,
+    "ratingCount": 46572,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1276,
+    "title": "Cool Hand Luke (1967)",
+    "score": 4.065727882230587,
+    "avgRating": 4.075274039128625,
+    "ratingCount": 14414,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1131,
+    "title": "Jean de Florette (1986)",
+    "score": 4.065010965547502,
+    "avgRating": 4.1024523160762945,
+    "ratingCount": 3670,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 923,
+    "title": "Citizen Kane (1941)",
+    "score": 4.064805836028921,
+    "avgRating": 4.070491328283455,
+    "ratingCount": 24159,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3462,
+    "title": "Modern Times (1936)",
+    "score": 4.063516044701476,
+    "avgRating": 4.085410674336849,
+    "ratingCount": 6258,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1224,
+    "title": "Henry V (1989)",
+    "score": 4.063362594990232,
+    "avgRating": 4.090610702208076,
+    "ratingCount": 5027,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 116897,
+    "title": "Wild Tales (2014)",
+    "score": 4.062821575165858,
+    "avgRating": 4.107788366743345,
+    "ratingCount": 3043,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1225,
+    "title": "Amadeus (1984)",
+    "score": 4.0627032142856505,
+    "avgRating": 4.067926689576174,
+    "ratingCount": 26190,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2859,
+    "title": "Stop Making Sense (1984)",
+    "score": 4.062584471688011,
+    "avgRating": 4.113165680473373,
+    "ratingCount": 2704,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 142488,
+    "title": "Spotlight (2015)",
+    "score": 4.062500066394914,
+    "avgRating": 4.077383543752721,
+    "ratingCount": 9188,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1267,
+    "title": "Manchurian Candidate, The (1962)",
+    "score": 4.062358474764256,
+    "avgRating": 4.07504873294347,
+    "ratingCount": 10773,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2731,
+    "title": "400 Blows, The (Les quatre cents coups) (1959)",
+    "score": 4.062061829388193,
+    "avgRating": 4.093837209302325,
+    "ratingCount": 4300,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 148626,
+    "title": "Big Short, The (2015)",
+    "score": 4.062038301268135,
+    "avgRating": 4.070588235294117,
+    "ratingCount": 15980,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1237,
+    "title": "Seventh Seal, The (Sjunde inseglet, Det) (1957)",
+    "score": 4.0605453194247305,
+    "avgRating": 4.080384447356924,
+    "ratingCount": 6867,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 158783,
+    "title": "The Handmaiden (2016)",
+    "score": 4.057366057468807,
+    "avgRating": 4.106494920174166,
+    "ratingCount": 2756,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1219,
+    "title": "Psycho (1960)",
+    "score": 4.056426610824227,
+    "avgRating": 4.061250713877784,
+    "ratingCount": 28016,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7926,
+    "title": "High and Low (Tengoku to jigoku) (1963)",
+    "score": 4.055971174440423,
+    "avgRating": 4.163224781572676,
+    "ratingCount": 1259,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2028,
+    "title": "Saving Private Ryan (1998)",
+    "score": 4.0553767268364656,
+    "avgRating": 4.057476453646766,
+    "ratingCount": 64235,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1232,
+    "title": "Stalker (1979)",
+    "score": 4.054744139840991,
+    "avgRating": 4.088220675944334,
+    "ratingCount": 4024,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5995,
+    "title": "Pianist, The (2002)",
+    "score": 4.053830001142431,
+    "avgRating": 4.059478304700298,
+    "ratingCount": 23807,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 951,
+    "title": "His Girl Friday (1940)",
+    "score": 4.0537482336031525,
+    "avgRating": 4.0804084870117,
+    "ratingCount": 5043,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6669,
+    "title": "Ikiru (1952)",
+    "score": 4.053492211741554,
+    "avgRating": 4.117604961832061,
+    "ratingCount": 2096,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3134,
+    "title": "Grand Illusion (La grande illusion) (1937)",
+    "score": 4.050733968477532,
+    "avgRating": 4.116347569955817,
+    "ratingCount": 2037,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1617,
+    "title": "L.A. Confidential (1997)",
+    "score": 4.04993033026844,
+    "avgRating": 4.05365874102428,
+    "ratingCount": 35791,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 55820,
+    "title": "No Country for Old Men (2007)",
+    "score": 4.048305324260693,
+    "avgRating": 4.053054375379342,
+    "ratingCount": 28009,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 207313,
+    "title": "Knives Out (2019)",
+    "score": 4.046904847243745,
+    "avgRating": 4.058669623059867,
+    "ratingCount": 11275,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 164179,
+    "title": "Arrival (2016)",
+    "score": 4.046723651198961,
+    "avgRating": 4.053164618448536,
+    "ratingCount": 20587,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1222,
+    "title": "Full Metal Jacket (1987)",
+    "score": 4.0455198081453805,
+    "avgRating": 4.049496467758906,
+    "ratingCount": 33265,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2203,
+    "title": "Shadow of a Doubt (1943)",
+    "score": 4.045398508141227,
+    "avgRating": 4.09149529452771,
+    "ratingCount": 2869,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1189,
+    "title": "Thin Blue Line, The (1988)",
+    "score": 4.045248320222633,
+    "avgRating": 4.086142901330034,
+    "ratingCount": 3233,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1949,
+    "title": "Man for All Seasons, A (1966)",
+    "score": 4.044973653775046,
+    "avgRating": 4.098580121703854,
+    "ratingCount": 2465,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7327,
+    "title": "Persona (1966)",
+    "score": 4.044911012837054,
+    "avgRating": 4.093201754385965,
+    "ratingCount": 2736,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1256,
+    "title": "Duck Soup (1933)",
+    "score": 4.0441382052103245,
+    "avgRating": 4.063705132008306,
+    "ratingCount": 6742,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 270698,
+    "title": "Everything Everywhere All at Once (2022)",
+    "score": 4.043275089667061,
+    "avgRating": 4.076640486445402,
+    "ratingCount": 3947,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 170355,
+    "title": "Mulholland Dr. (1999)",
+    "score": 4.0426789299990435,
+    "avgRating": 4.1311365164761265,
+    "ratingCount": 1487,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3468,
+    "title": "Hustler, The (1961)",
+    "score": 4.042342147893466,
+    "avgRating": 4.0676351741389265,
+    "ratingCount": 5197,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3429,
+    "title": "Creature Comforts (1989)",
+    "score": 4.04231126514615,
+    "avgRating": 4.0880612600069615,
+    "ratingCount": 2873,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 306,
+    "title": "Three Colors: Red (Trois couleurs: Rouge) (1994)",
+    "score": 4.041510806757601,
+    "avgRating": 4.056163465832961,
+    "ratingCount": 8956,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7156,
+    "title": "Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",
+    "score": 4.040938361095353,
+    "avgRating": 4.079845651528643,
+    "ratingCount": 3369,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 182723,
+    "title": "Cosmos: A Spacetime Odissey",
+    "score": 4.040821493617547,
+    "avgRating": 4.259599332220367,
+    "ratingCount": 599,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3147,
+    "title": "Green Mile, The (1999)",
+    "score": 4.039524843377084,
+    "avgRating": 4.042695647954975,
+    "ratingCount": 41222,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5147,
+    "title": "Wild Strawberries (Smultronstället) (1957)",
+    "score": 4.03854584207962,
+    "avgRating": 4.0838250607427975,
+    "ratingCount": 2881,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 131724,
+    "title": "The Jinx: The Life and Deaths of Robert Durst (2015)",
+    "score": 4.038341362384297,
+    "avgRating": 4.13338192419825,
+    "ratingCount": 1372,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 928,
+    "title": "Rebecca (1940)",
+    "score": 4.037669595931783,
+    "avgRating": 4.058833089549813,
+    "ratingCount": 6153,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 800,
+    "title": "Lone Star (1996)",
+    "score": 4.0370910166769445,
+    "avgRating": 4.054022390002603,
+    "ratingCount": 7682,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 68157,
+    "title": "Inglourious Basterds (2009)",
+    "score": 4.036777579368311,
+    "avgRating": 4.04038274857856,
+    "ratingCount": 36055,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2920,
+    "title": "Children of Paradise (Les enfants du paradis) (1945)",
+    "score": 4.036620237402019,
+    "avgRating": 4.137743190661479,
+    "ratingCount": 1285,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2360,
+    "title": "Celebration, The (Festen) (1998)",
+    "score": 4.0359386082393165,
+    "avgRating": 4.077489593339737,
+    "ratingCount": 3123,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 916,
+    "title": "Roman Holiday (1953)",
+    "score": 4.035732337735204,
+    "avgRating": 4.051589242053789,
+    "ratingCount": 8180,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1299,
+    "title": "Killing Fields, The (1984)",
+    "score": 4.03523238049415,
+    "avgRating": 4.0508178975222515,
+    "ratingCount": 8314,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3677,
+    "title": "Baraka (1992)",
+    "score": 4.035050925078826,
+    "avgRating": 4.09254327563249,
+    "ratingCount": 2253,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 969,
+    "title": "African Queen, The (1951)",
+    "score": 4.034581292326252,
+    "avgRating": 4.044937975190076,
+    "ratingCount": 12495,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2357,
+    "title": "Central Station (Central do Brasil) (1998)",
+    "score": 4.033968947237289,
+    "avgRating": 4.080797101449275,
+    "ratingCount": 2760,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3196,
+    "title": "Stalag 17 (1953)",
+    "score": 4.033006958598262,
+    "avgRating": 4.071535244922342,
+    "ratingCount": 3348,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1258,
+    "title": "Shining, The (1980)",
+    "score": 4.032512034701635,
+    "avgRating": 4.035709854331588,
+    "ratingCount": 40297,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 208703,
+    "title": "1917 (2019)",
+    "score": 4.032354466950043,
+    "avgRating": 4.049816998779992,
+    "ratingCount": 7377,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5008,
+    "title": "Witness for the Prosecution (1957)",
+    "score": 4.031355929464928,
+    "avgRating": 4.079093947270702,
+    "ratingCount": 2693,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 104879,
+    "title": "Prisoners (2013)",
+    "score": 4.031268903486567,
+    "avgRating": 4.044535039735782,
+    "ratingCount": 9689,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 228099,
+    "title": "Firefly (2002)",
+    "score": 4.030818762951921,
+    "avgRating": 4.174301675977653,
+    "ratingCount": 895,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 134130,
+    "title": "The Martian (2015)",
+    "score": 4.03038110718516,
+    "avgRating": 4.034644910438337,
+    "ratingCount": 30091,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3022,
+    "title": "General, The (1926)",
+    "score": 4.030269647733389,
+    "avgRating": 4.070619691726958,
+    "ratingCount": 3179,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 99114,
+    "title": "Django Unchained (2012)",
+    "score": 4.029292160514756,
+    "avgRating": 4.033104988830975,
+    "ratingCount": 33575,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4144,
+    "title": "In the Mood For Love (Fa yeung nin wa) (2000)",
+    "score": 4.028940685527979,
+    "avgRating": 4.0588992974238876,
+    "ratingCount": 4270,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 109374,
+    "title": "Grand Budapest Hotel, The (2014)",
+    "score": 4.02864039846009,
+    "avgRating": 4.034414235389757,
+    "ratingCount": 22142,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2905,
+    "title": "Sanjuro (Tsubaki Sanjûrô) (1962)",
+    "score": 4.028360386918219,
+    "avgRating": 4.098410087719298,
+    "ratingCount": 1824,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1132,
+    "title": "Manon of the Spring (Manon des sources) (1986)",
+    "score": 4.027968924305091,
+    "avgRating": 4.066227150134852,
+    "ratingCount": 3337,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1228,
+    "title": "Raging Bull (1980)",
+    "score": 4.027262656690912,
+    "avgRating": 4.036668142245832,
+    "ratingCount": 13554,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5782,
+    "title": "Professional, The (Le professionnel) (1981)",
+    "score": 4.026918613441054,
+    "avgRating": 4.052488960256925,
+    "ratingCount": 4982,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 678,
+    "title": "Some Folks Call It a Sling Blade (1993)",
+    "score": 4.025953080571993,
+    "avgRating": 4.070625439212931,
+    "ratingCount": 2846,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 56782,
+    "title": "There Will Be Blood (2007)",
+    "score": 4.0254428268379705,
+    "avgRating": 4.0334810126582274,
+    "ratingCount": 15800,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2542,
+    "title": "Lock, Stock & Two Smoking Barrels (1998)",
+    "score": 4.025158327514038,
+    "avgRating": 4.030218465954393,
+    "ratingCount": 25084,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 26662,
+    "title": "Kiki's Delivery Service (Majo no takkyûbin) (1989)",
+    "score": 4.023512479799826,
+    "avgRating": 4.041483165222333,
+    "ratingCount": 7039,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1304,
+    "title": "Butch Cassidy and the Sundance Kid (1969)",
+    "score": 4.021625779553044,
+    "avgRating": 4.028263618164577,
+    "ratingCount": 18982,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1041,
+    "title": "Secrets & Lies (1996)",
+    "score": 4.02157012469091,
+    "avgRating": 4.041847738612587,
+    "ratingCount": 6213,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2351,
+    "title": "Nights of Cabiria (Notti di Cabiria, Le) (1957)",
+    "score": 4.021318906572632,
+    "avgRating": 4.096764529658478,
+    "ratingCount": 1669,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 177765,
+    "title": "Coco (2017)",
+    "score": 4.021040801034054,
+    "avgRating": 4.033521769314688,
+    "ratingCount": 10083,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1939,
+    "title": "Best Years of Our Lives, The (1946)",
+    "score": 4.020554599251015,
+    "avgRating": 4.07579086115993,
+    "ratingCount": 2276,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 720,
+    "title": "Wallace & Gromit: The Best of Aardman Animation (1996)",
+    "score": 4.020090877068278,
+    "avgRating": 4.032713567839196,
+    "ratingCount": 9950,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 169906,
+    "title": "The Night Of (2016)",
+    "score": 4.019734944760033,
+    "avgRating": 4.129824561403509,
+    "ratingCount": 1140,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 953,
+    "title": "It's a Wonderful Life (1946)",
+    "score": 4.018958458451993,
+    "avgRating": 4.025306515351099,
+    "ratingCount": 19738,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1230,
+    "title": "Annie Hall (1977)",
+    "score": 4.018769208085287,
+    "avgRating": 4.024664626971052,
+    "ratingCount": 21245,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 910,
+    "title": "Some Like It Hot (1959)",
+    "score": 4.018768453518712,
+    "avgRating": 4.0271116440181185,
+    "ratingCount": 15012,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 286897,
+    "title": "Spider-Man: Across the Spider-Verse (2023)",
+    "score": 4.016672727557934,
+    "avgRating": 4.252840909090909,
+    "ratingCount": 528,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1247,
+    "title": "Graduate, The (1967)",
+    "score": 4.016235279505019,
+    "avgRating": 4.021601481736734,
+    "ratingCount": 23216,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 942,
+    "title": "Laura (1944)",
+    "score": 4.0157716843624724,
+    "avgRating": 4.0527802557240555,
+    "ratingCount": 3363,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3819,
+    "title": "Tampopo (1985)",
+    "score": 4.013117226122924,
+    "avgRating": 4.06864064602961,
+    "ratingCount": 2229,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 326,
+    "title": "To Live (Huozhe) (1994)",
+    "score": 4.0115466634868255,
+    "avgRating": 4.0900127226463106,
+    "ratingCount": 1572,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 60069,
+    "title": "WALL·E (2008)",
+    "score": 4.011022038195062,
+    "avgRating": 4.013953322389551,
+    "ratingCount": 42033,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 899,
+    "title": "Singin' in the Rain (1952)",
+    "score": 4.010905354085351,
+    "avgRating": 4.019638426090039,
+    "ratingCount": 14105,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 778,
+    "title": "Trainspotting (1996)",
+    "score": 4.010592753271661,
+    "avgRating": 4.013924221921515,
+    "ratingCount": 36950,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1281,
+    "title": "Great Dictator, The (1940)",
+    "score": 4.010563043714196,
+    "avgRating": 4.032086029026053,
+    "ratingCount": 5719,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6787,
+    "title": "All the President's Men (1976)",
+    "score": 4.0094338798892695,
+    "avgRating": 4.028515928515929,
+    "ratingCount": 6435,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 911,
+    "title": "Charade (1963)",
+    "score": 4.00901853144624,
+    "avgRating": 4.032157676348548,
+    "ratingCount": 5302,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 31364,
+    "title": "Memories of Murder (Salinui chueok) (2003)",
+    "score": 4.008295257364057,
+    "avgRating": 4.05062197650311,
+    "ratingCount": 2894,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3730,
+    "title": "Conversation, The (1974)",
+    "score": 4.0073175253804365,
+    "avgRating": 4.0282340862423,
+    "ratingCount": 5844,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1086,
+    "title": "Dial M for Murder (1954)",
+    "score": 4.0064379483710635,
+    "avgRating": 4.02230749219563,
+    "ratingCount": 7688,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1244,
+    "title": "Manhattan (1979)",
+    "score": 4.006398760637229,
+    "avgRating": 4.01723984715187,
+    "ratingCount": 11253,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2762,
+    "title": "Sixth Sense, The (1999)",
+    "score": 4.00604902849162,
+    "avgRating": 4.008065983884578,
+    "ratingCount": 60439,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 909,
+    "title": "Apartment, The (1960)",
+    "score": 4.005695388038814,
+    "avgRating": 4.0223360655737705,
+    "ratingCount": 7320,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 116797,
+    "title": "The Imitation Game (2014)",
+    "score": 4.005183545050389,
+    "avgRating": 4.009793150477345,
+    "ratingCount": 26396,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 68237,
+    "title": "Moon (2009)",
+    "score": 4.004980983384045,
+    "avgRating": 4.012517816198798,
+    "ratingCount": 16137,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3469,
+    "title": "Inherit the Wind (1960)",
+    "score": 4.003964251944874,
+    "avgRating": 4.056566970091027,
+    "ratingCount": 2307,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 232,
+    "title": "Eat Drink Man Woman (Yin shi nan nu) (1994)",
+    "score": 4.00377786028539,
+    "avgRating": 4.021967311440996,
+    "ratingCount": 6669,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1361,
+    "title": "Paradise Lost: The Child Murders at Robin Hood Hills (1996)",
+    "score": 4.003725262738092,
+    "avgRating": 4.06640826873385,
+    "ratingCount": 1935,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 28,
+    "title": "Persuasion (1995)",
+    "score": 4.003640459441044,
+    "avgRating": 4.038318558764655,
+    "ratingCount": 3497,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1200,
+    "title": "Aliens (1986)",
+    "score": 4.003293067808093,
+    "avgRating": 4.006308794982828,
+    "ratingCount": 40182,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1283,
+    "title": "High Noon (1952)",
+    "score": 4.003142121011413,
+    "avgRating": 4.0228010386238235,
+    "ratingCount": 6162,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2208,
+    "title": "Lady Vanishes, The (1938)",
+    "score": 4.002163742315861,
+    "avgRating": 4.044908062234795,
+    "ratingCount": 2828,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1199,
+    "title": "Brazil (1985)",
+    "score": 4.001100696685867,
+    "avgRating": 4.007304151021038,
+    "ratingCount": 19441,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1251,
+    "title": "8 1/2 (8½) (1963)",
+    "score": 4.000775468355409,
+    "avgRating": 4.027598486534609,
+    "ratingCount": 4493,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1950,
+    "title": "In the Heat of the Night (1967)",
+    "score": 4.000258964145233,
+    "avgRating": 4.028092485549133,
+    "ratingCount": 4325,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 65188,
+    "title": "Dear Zachary: A Letter to a Son About His Father (2008)",
+    "score": 3.9998059287481804,
+    "avgRating": 4.089285714285714,
+    "ratingCount": 1344,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 74458,
+    "title": "Shutter Island (2010)",
+    "score": 3.9988944587855846,
+    "avgRating": 4.002852808284687,
+    "ratingCount": 30321,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1288,
+    "title": "This Is Spinal Tap (1984)",
+    "score": 3.9985126533837767,
+    "avgRating": 4.0043758861780665,
+    "ratingCount": 20453,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2132,
+    "title": "Who's Afraid of Virginia Woolf? (1966)",
+    "score": 3.9977425763632306,
+    "avgRating": 4.028741584671155,
+    "ratingCount": 3862,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2935,
+    "title": "Lady Eve, The (1941)",
+    "score": 3.9955719233659925,
+    "avgRating": 4.064562825709323,
+    "ratingCount": 1727,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3629,
+    "title": "Gold Rush, The (1925)",
+    "score": 3.9948477252523222,
+    "avgRating": 4.0345,
+    "ratingCount": 3000,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 110,
+    "title": "Braveheart (1995)",
+    "score": 3.9945918699275285,
+    "avgRating": 3.9961662738035333,
+    "ratingCount": 75514,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1223,
+    "title": "Grand Day Out with Wallace and Gromit, A (1989)",
+    "score": 3.994049175027423,
+    "avgRating": 4.006286067600989,
+    "ratingCount": 9704,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 86781,
+    "title": "Incendies (2010)",
+    "score": 3.9937451501218657,
+    "avgRating": 4.048054919908467,
+    "ratingCount": 2185,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 924,
+    "title": "2001: A Space Odyssey (1968)",
+    "score": 3.993369759404386,
+    "avgRating": 3.9965645461159163,
+    "ratingCount": 37113,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 246,
+    "title": "Hoop Dreams (1994)",
+    "score": 3.9927203708102654,
+    "avgRating": 4.0028130594152245,
+    "ratingCount": 11731,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1211,
+    "title": "Wings of Desire (Himmel über Berlin, Der) (1987)",
+    "score": 3.992010730238437,
+    "avgRating": 4.0177366702937976,
+    "ratingCount": 4595,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 168250,
+    "title": "Get Out (2017)",
+    "score": 3.991881642074579,
+    "avgRating": 4.0017543859649125,
+    "ratingCount": 11970,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3504,
+    "title": "Network (1976)",
+    "score": 3.9916959449363207,
+    "avgRating": 4.007875633474867,
+    "ratingCount": 7301,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 202749,
+    "title": "Portrait of a Lady on Fire (2019)",
+    "score": 3.9916779618412237,
+    "avgRating": 4.063836285888821,
+    "ratingCount": 1637,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 670,
+    "title": "World of Apu, The (Apur Sansar) (1959)",
+    "score": 3.9912685245540436,
+    "avgRating": 4.119825708061002,
+    "ratingCount": 918,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 152970,
+    "title": "Hunt for the Wilderpeople (2016)",
+    "score": 3.9909944613986412,
+    "avgRating": 4.026466165413534,
+    "ratingCount": 3325,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 26131,
+    "title": "Battle of Algiers, The (La battaglia di Algeri) (1966)",
+    "score": 3.990725172373665,
+    "avgRating": 4.051894135962637,
+    "ratingCount": 1927,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3035,
+    "title": "Mister Roberts (1955)",
+    "score": 3.9902650705740035,
+    "avgRating": 4.03311499272198,
+    "ratingCount": 2748,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1218,
+    "title": "Killer, The (Die xue shuang xiong) (1989)",
+    "score": 3.9897709590112327,
+    "avgRating": 4.02609635577517,
+    "ratingCount": 3238,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3983,
+    "title": "You Can Count on Me (2000)",
+    "score": 3.9897116063438585,
+    "avgRating": 4.025188536953243,
+    "ratingCount": 3315,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 115122,
+    "title": "What We Do in the Shadows (2014)",
+    "score": 3.9895457042720435,
+    "avgRating": 4.013152610441767,
+    "ratingCount": 4980,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1269,
+    "title": "Arsenic and Old Lace (1944)",
+    "score": 3.9890461616308657,
+    "avgRating": 4.003349573690621,
+    "ratingCount": 8210,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 177593,
+    "title": "Three Billboards Outside Ebbing, Missouri (2017)",
+    "score": 3.9890366366575107,
+    "avgRating": 4.003846638920419,
+    "ratingCount": 7929,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 26587,
+    "title": "Decalogue, The (Dekalog) (1989)",
+    "score": 3.9889830421990657,
+    "avgRating": 4.163447251114413,
+    "ratingCount": 673,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 96606,
+    "title": "Samsara (2011)",
+    "score": 3.988868714496051,
+    "avgRating": 4.071128241065172,
+    "ratingCount": 1427,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1732,
+    "title": "Big Lebowski, The (1998)",
+    "score": 3.988520827369789,
+    "avgRating": 3.9916282520002118,
+    "ratingCount": 37746,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 8638,
+    "title": "Before Sunset (2004)",
+    "score": 3.9873507398365615,
+    "avgRating": 4.005075757575757,
+    "ratingCount": 6600,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6643,
+    "title": "Tokyo Story (Tôkyô monogatari) (1953)",
+    "score": 3.9873113016278796,
+    "avgRating": 4.0676510989010985,
+    "ratingCount": 1456,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7256,
+    "title": "Touching the Void (2003)",
+    "score": 3.9867402467873165,
+    "avgRating": 4.026639344262295,
+    "ratingCount": 2928,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3949,
+    "title": "Requiem for a Dream (2000)",
+    "score": 3.98534772957764,
+    "avgRating": 3.989178343530031,
+    "ratingCount": 30402,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 115713,
+    "title": "Ex Machina (2015)",
+    "score": 3.985285124895746,
+    "avgRating": 3.9907429107101007,
+    "ratingCount": 21335,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3681,
+    "title": "For a Few Dollars More (Per qualche dollaro in più) (1965)",
+    "score": 3.984922886663744,
+    "avgRating": 4.001188312596113,
+    "ratingCount": 7153,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 945,
+    "title": "Top Hat (1935)",
+    "score": 3.984662956594636,
+    "avgRating": 4.033152627189325,
+    "ratingCount": 2398,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 8228,
+    "title": "Maltese Falcon, The (a.k.a. Dangerous Female) (1931)",
+    "score": 3.9842859819239806,
+    "avgRating": 4.0182962529274,
+    "ratingCount": 3416,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2502,
+    "title": "Office Space (1999)",
+    "score": 3.9842765025386053,
+    "avgRating": 3.9881657795185967,
+    "ratingCount": 29871,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 193950,
+    "title": "Free Solo (2018)",
+    "score": 3.9838013887722568,
+    "avgRating": 4.038209095171121,
+    "ratingCount": 2133,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1259,
+    "title": "Stand by Me (1986)",
+    "score": 3.982896116991439,
+    "avgRating": 3.986986156236757,
+    "ratingCount": 28316,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 31410,
+    "title": "Downfall (Untergang, Der) (2004)",
+    "score": 3.9827717429507303,
+    "avgRating": 3.998200959488273,
+    "ratingCount": 7504,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1272,
+    "title": "Patton (1970)",
+    "score": 3.9826304705966913,
+    "avgRating": 3.9942350110286746,
+    "ratingCount": 9974,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 668,
+    "title": "Song of the Little Road (Pather Panchali) (1955)",
+    "score": 3.98258092721165,
+    "avgRating": 4.087409420289855,
+    "ratingCount": 1104,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 955,
+    "title": "Bringing Up Baby (1938)",
+    "score": 3.9825155154046343,
+    "avgRating": 4.003876684511722,
+    "ratingCount": 5417,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7766,
+    "title": "Throne of Blood (Kumonosu jô) (1957)",
+    "score": 3.981988158481312,
+    "avgRating": 4.047917855105533,
+    "ratingCount": 1753,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1266,
+    "title": "Unforgiven (1992)",
+    "score": 3.981693205722931,
+    "avgRating": 3.9879767150862304,
+    "ratingCount": 18381,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 741,
+    "title": "Ghost in the Shell (Kôkaku kidôtai) (1995)",
+    "score": 3.9802371879721155,
+    "avgRating": 3.9907154560349536,
+    "ratingCount": 10986,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1206,
+    "title": "Clockwork Orange, A (1971)",
+    "score": 3.979996050951644,
+    "avgRating": 3.983008247152769,
+    "ratingCount": 38195,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1210,
+    "title": "Star Wars: Episode VI - Return of the Jedi (1983)",
+    "score": 3.9798040932485894,
+    "avgRating": 3.981302020241491,
+    "ratingCount": 76773,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1291,
+    "title": "Indiana Jones and the Last Crusade (1989)",
+    "score": 3.979574105996879,
+    "avgRating": 3.981920823209947,
+    "ratingCount": 48979,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2973,
+    "title": "Crimes and Misdemeanors (1989)",
+    "score": 3.979516016859022,
+    "avgRating": 4.00284148569109,
+    "ratingCount": 4927,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1080,
+    "title": "Monty Python's Life of Brian (1979)",
+    "score": 3.979327970255241,
+    "avgRating": 3.983316551508628,
+    "ratingCount": 28801,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4235,
+    "title": "Amores Perros (Love's a Bitch) (2000)",
+    "score": 3.9789504187024582,
+    "avgRating": 3.993436829483781,
+    "ratingCount": 7923,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 97,
+    "title": "Hate (Haine, La) (1995)",
+    "score": 3.978947022001628,
+    "avgRating": 4.010626552580734,
+    "ratingCount": 3623,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2726,
+    "title": "Killing, The (1956)",
+    "score": 3.9787455281575372,
+    "avgRating": 4.0176211453744495,
+    "ratingCount": 2951,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1300,
+    "title": "My Life as a Dog (Mitt liv som hund) (1985)",
+    "score": 3.976886427961561,
+    "avgRating": 4.00664235477989,
+    "ratingCount": 3839,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 166643,
+    "title": "Hidden Figures (2016)",
+    "score": 3.9765816849858857,
+    "avgRating": 3.996002041510718,
+    "ratingCount": 5878,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 27156,
+    "title": "Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",
+    "score": 3.975945428047963,
+    "avgRating": 4.039731393396754,
+    "ratingCount": 1787,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1303,
+    "title": "Man Who Would Be King, The (1975)",
+    "score": 3.9757323749706703,
+    "avgRating": 4.003821499013807,
+    "ratingCount": 4056,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 457,
+    "title": "Fugitive, The (1993)",
+    "score": 3.975033278933758,
+    "avgRating": 3.976875850450334,
+    "ratingCount": 61732,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 906,
+    "title": "Gaslight (1944)",
+    "score": 3.974685171280911,
+    "avgRating": 4.019185591229444,
+    "ratingCount": 2554,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 123,
+    "title": "Chungking Express (Chung Hing sam lam) (1994)",
+    "score": 3.9740720039276045,
+    "avgRating": 4.004887320119468,
+    "ratingCount": 3683,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4427,
+    "title": "Lion in Winter, The (1968)",
+    "score": 3.9738314728228117,
+    "avgRating": 4.0332809224318655,
+    "ratingCount": 1908,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 82,
+    "title": "Antonia's Line (Antonia) (1995)",
+    "score": 3.973093357875025,
+    "avgRating": 4.014135556361,
+    "ratingCount": 2759,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3091,
+    "title": "Kagemusha (1980)",
+    "score": 3.971514973905728,
+    "avgRating": 4.036020583190394,
+    "ratingCount": 1749,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 994,
+    "title": "Big Night (1996)",
+    "score": 3.971481293074467,
+    "avgRating": 3.9911211699164344,
+    "ratingCount": 5744,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 71033,
+    "title": "Secret in Their Eyes, The (El secreto de sus ojos) (2009)",
+    "score": 3.97006578070886,
+    "avgRating": 4.005148205928237,
+    "ratingCount": 3205,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1273,
+    "title": "Down by Law (1986)",
+    "score": 3.96994147168462,
+    "avgRating": 4.003425677688412,
+    "ratingCount": 3357,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 48394,
+    "title": "Pan's Labyrinth (Laberinto del fauno, El) (2006)",
+    "score": 3.969887510161796,
+    "avgRating": 3.974043261231281,
+    "ratingCount": 27045,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 91529,
+    "title": "Dark Knight Rises, The (2012)",
+    "score": 3.9694587583288494,
+    "avgRating": 3.9730002523340904,
+    "ratingCount": 31704,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3683,
+    "title": "Blood Simple (1984)",
+    "score": 3.9692774781891194,
+    "avgRating": 3.985956308515381,
+    "ratingCount": 6729,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 167832,
+    "title": "The Invisible Guest (2016)",
+    "score": 3.969194884043491,
+    "avgRating": 4.052067946824224,
+    "ratingCount": 1354,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 115569,
+    "title": "Nightcrawler (2014)",
+    "score": 3.9690550792175356,
+    "avgRating": 3.9773858150761234,
+    "ratingCount": 13465,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 220528,
+    "title": "Twelve Angry Men (1954)",
+    "score": 3.9683834075602107,
+    "avgRating": 4.305722891566265,
+    "ratingCount": 332,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2843,
+    "title": "Black Cat, White Cat (Crna macka, beli macor) (1998)",
+    "score": 3.9683058344437,
+    "avgRating": 4.024660291897333,
+    "ratingCount": 1987,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3578,
+    "title": "Gladiator (2000)",
+    "score": 3.9678782555480616,
+    "avgRating": 3.9697196661673444,
+    "ratingCount": 60749,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 104374,
+    "title": "About Time (2013)",
+    "score": 3.966958626010743,
+    "avgRating": 3.9806629834254146,
+    "ratingCount": 8145,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3090,
+    "title": "Matewan (1987)",
+    "score": 3.9665034137805097,
+    "avgRating": 4.056497175141243,
+    "ratingCount": 1239,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 205156,
+    "title": "Jojo Rabbit (2019)",
+    "score": 3.9663562979689897,
+    "avgRating": 3.983680447622008,
+    "ratingCount": 6434,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 162,
+    "title": "Crumb (1994)",
+    "score": 3.966270919740539,
+    "avgRating": 3.9827611719443623,
+    "ratingCount": 6758,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3359,
+    "title": "Breaking Away (1979)",
+    "score": 3.9660753562018236,
+    "avgRating": 3.997594793435201,
+    "ratingCount": 3534,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 213,
+    "title": "Burnt by the Sun (Utomlyonnye solntsem) (1994)",
+    "score": 3.9660479997852414,
+    "avgRating": 4.019778099372889,
+    "ratingCount": 2073,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 947,
+    "title": "My Man Godfrey (1936)",
+    "score": 3.9657293819408985,
+    "avgRating": 4.017066420664206,
+    "ratingCount": 2168,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1358,
+    "title": "Sling Blade (1996)",
+    "score": 3.965638905537049,
+    "avgRating": 3.9727093658660566,
+    "ratingCount": 15738,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2066,
+    "title": "Out of the Past (1947)",
+    "score": 3.9653714999990615,
+    "avgRating": 4.038436268068331,
+    "ratingCount": 1522,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3077,
+    "title": "42 Up (1998)",
+    "score": 3.9650799010372,
+    "avgRating": 4.052034428794992,
+    "ratingCount": 1278,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 954,
+    "title": "Mr. Smith Goes to Washington (1939)",
+    "score": 3.963376460961137,
+    "avgRating": 3.9786048431480463,
+    "ratingCount": 7268,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4995,
+    "title": "Beautiful Mind, A (2001)",
+    "score": 3.963263428401385,
+    "avgRating": 3.965835910073699,
+    "ratingCount": 43013,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3083,
+    "title": "All About My Mother (Todo sobre mi madre) (1999)",
+    "score": 3.963195625536377,
+    "avgRating": 3.9830935251798563,
+    "ratingCount": 5560,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 34405,
+    "title": "Serenity (2005)",
+    "score": 3.963144360975961,
+    "avgRating": 3.9701539826373486,
+    "ratingCount": 15781,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 194448,
+    "title": "Green Book (2018)",
+    "score": 3.9630785035150957,
+    "avgRating": 3.98197505552708,
+    "ratingCount": 5853,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2788,
+    "title": "Monty Python's And Now for Something Completely Different (1971)",
+    "score": 3.9628590447235954,
+    "avgRating": 3.978617248752673,
+    "ratingCount": 7015,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 30749,
+    "title": "Hotel Rwanda (2004)",
+    "score": 3.9628287701397023,
+    "avgRating": 3.9703191705631227,
+    "ratingCount": 14757,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1227,
+    "title": "Once Upon a Time in America (1984)",
+    "score": 3.9625724315762163,
+    "avgRating": 3.9805904420159846,
+    "ratingCount": 6131,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1446,
+    "title": "Kolya (Kolja) (1996)",
+    "score": 3.9623298838219165,
+    "avgRating": 4.004809542131589,
+    "ratingCount": 2599,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 80906,
+    "title": "Inside Job (2010)",
+    "score": 3.962194848091092,
+    "avgRating": 3.9988379814077026,
+    "ratingCount": 3012,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1263,
+    "title": "Deer Hunter, The (1978)",
+    "score": 3.9618881129480124,
+    "avgRating": 3.969512616660906,
+    "ratingCount": 14465,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1264,
+    "title": "Diva (1981)",
+    "score": 3.96143680818068,
+    "avgRating": 4.000713012477719,
+    "ratingCount": 2805,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 100044,
+    "title": "Human Planet (2011)",
+    "score": 3.9608253975010848,
+    "avgRating": 4.181726907630522,
+    "ratingCount": 498,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 589,
+    "title": "Terminator 2: Judgment Day (1991)",
+    "score": 3.960770058508918,
+    "avgRating": 3.9623015873015874,
+    "ratingCount": 71820,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7669,
+    "title": "Pride and Prejudice (1995)",
+    "score": 3.9606781579319374,
+    "avgRating": 3.9947352121399815,
+    "ratingCount": 3229,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 94959,
+    "title": "Moonrise Kingdom (2012)",
+    "score": 3.9602170739882623,
+    "avgRating": 3.969012731203459,
+    "ratingCount": 12489,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3088,
+    "title": "Harvey (1950)",
+    "score": 3.959344393447747,
+    "avgRating": 3.9853884533143265,
+    "ratingCount": 4209,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 160289,
+    "title": "O.J.: Made in America (2016)",
+    "score": 3.9588857282821244,
+    "avgRating": 4.119676945668135,
+    "ratingCount": 681,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5989,
+    "title": "Catch Me If You Can (2002)",
+    "score": 3.958705959113949,
+    "avgRating": 3.9614619529636905,
+    "ratingCount": 39714,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3811,
+    "title": "Breaker Morant (1980)",
+    "score": 3.958626247167343,
+    "avgRating": 4.014917695473251,
+    "ratingCount": 1944,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3470,
+    "title": "Dersu Uzala (1975)",
+    "score": 3.9584512077057177,
+    "avgRating": 4.040510127531883,
+    "ratingCount": 1333,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2010,
+    "title": "Metropolis (1927)",
+    "score": 3.95827848430613,
+    "avgRating": 3.9724746819008048,
+    "ratingCount": 7702,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 290,
+    "title": "Once Were Warriors (1994)",
+    "score": 3.958052298093043,
+    "avgRating": 3.9828603859250853,
+    "ratingCount": 4405,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2804,
+    "title": "Christmas Story, A (1983)",
+    "score": 3.9577511542631263,
+    "avgRating": 3.9646299212598426,
+    "ratingCount": 15875,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 68954,
+    "title": "Up (2009)",
+    "score": 3.957635416196707,
+    "avgRating": 3.9604526334804264,
+    "ratingCount": 38751,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1293,
+    "title": "Gandhi (1982)",
+    "score": 3.9574339485002623,
+    "avgRating": 3.9662287418392843,
+    "ratingCount": 12407,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3801,
+    "title": "Anatomy of a Murder (1959)",
+    "score": 3.9573235112873153,
+    "avgRating": 4.002050020500205,
+    "ratingCount": 2439,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 111759,
+    "title": "Edge of Tomorrow (2014)",
+    "score": 3.9570773606409944,
+    "avgRating": 3.962416140247784,
+    "ratingCount": 20421,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1270,
+    "title": "Back to the Future (1985)",
+    "score": 3.9561903016975064,
+    "avgRating": 3.957795417324461,
+    "ratingCount": 67777,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 58,
+    "title": "Postman, The (Postino, Il) (1994)",
+    "score": 3.9558917132979823,
+    "avgRating": 3.9639141022802744,
+    "ratingCount": 13551,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2692,
+    "title": "Run Lola Run (Lola rennt) (1998)",
+    "score": 3.9557719210525604,
+    "avgRating": 3.96045599517283,
+    "ratingCount": 23202,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 933,
+    "title": "To Catch a Thief (1955)",
+    "score": 3.9554766560583827,
+    "avgRating": 3.9737506309944473,
+    "ratingCount": 5943,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 8477,
+    "title": "Jetée, La (1962)",
+    "score": 3.95519612677893,
+    "avgRating": 4.024632117722329,
+    "ratingCount": 1563,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 307,
+    "title": "Three Colors: Blue (Trois couleurs: Bleu) (1993)",
+    "score": 3.9548821065944657,
+    "avgRating": 3.9675925925925926,
+    "ratingCount": 8532,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2936,
+    "title": "Sullivan's Travels (1941)",
+    "score": 3.9545262751094197,
+    "avgRating": 4.015466816647919,
+    "ratingCount": 1778,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 26150,
+    "title": "Andrei Rublev (Andrey Rublyov) (1969)",
+    "score": 3.9545210040589165,
+    "avgRating": 4.035500747384155,
+    "ratingCount": 1338,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 8014,
+    "title": "Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)",
+    "score": 3.9543971302112264,
+    "avgRating": 3.993657122145705,
+    "ratingCount": 2759,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1278,
+    "title": "Young Frankenstein (1974)",
+    "score": 3.954205668730957,
+    "avgRating": 3.9597530358149307,
+    "ratingCount": 19517,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 26903,
+    "title": "Whisper of the Heart (Mimi wo sumaseba) (1995)",
+    "score": 3.9539234417968196,
+    "avgRating": 4.014946418499718,
+    "ratingCount": 1773,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3415,
+    "title": "Mirror, The (Zerkalo) (1975)",
+    "score": 3.9536759304922007,
+    "avgRating": 4.036979969183359,
+    "ratingCount": 1298,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 188773,
+    "title": "Shoplifters (2018)",
+    "score": 3.953439980169814,
+    "avgRating": 4.031976744186046,
+    "ratingCount": 1376,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3741,
+    "title": "Badlands (1973)",
+    "score": 3.953369805721129,
+    "avgRating": 3.9866153846153844,
+    "ratingCount": 3250,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 112556,
+    "title": "Gone Girl (2014)",
+    "score": 3.952630779485786,
+    "avgRating": 3.9577251901185586,
+    "ratingCount": 21171,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7396,
+    "title": "Scenes From a Marriage (Scener ur ett äktenskap) (1973)",
+    "score": 3.952114720423591,
+    "avgRating": 4.083638583638583,
+    "ratingCount": 819,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 117444,
+    "title": "Song of the Sea (2014)",
+    "score": 3.951618254621852,
+    "avgRating": 4.013521288837745,
+    "ratingCount": 1738,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 105250,
+    "title": "Century of the Self, The (2002)",
+    "score": 3.951042617421705,
+    "avgRating": 4.221662468513854,
+    "ratingCount": 397,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 176371,
+    "title": "Blade Runner 2049 (2017)",
+    "score": 3.9502677811671925,
+    "avgRating": 3.9596281424581004,
+    "ratingCount": 11456,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 104944,
+    "title": "Short Term 12 (2013)",
+    "score": 3.9502553531405864,
+    "avgRating": 3.998211091234347,
+    "ratingCount": 2236,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3095,
+    "title": "Grapes of Wrath, The (1940)",
+    "score": 3.9501358007019207,
+    "avgRating": 3.9743011722272317,
+    "ratingCount": 4436,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1235,
+    "title": "Harold and Maude (1971)",
+    "score": 3.9493335915263654,
+    "avgRating": 3.9594658585093288,
+    "ratingCount": 10559,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3334,
+    "title": "Key Largo (1948)",
+    "score": 3.9490891168663294,
+    "avgRating": 3.981314044605184,
+    "ratingCount": 3318,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6985,
+    "title": "Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)",
+    "score": 3.948161037536532,
+    "avgRating": 4.024251069900143,
+    "ratingCount": 1402,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1719,
+    "title": "Sweet Hereafter, The (1997)",
+    "score": 3.9478194133405533,
+    "avgRating": 3.9736778262979136,
+    "ratingCount": 4122,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 254726,
+    "title": "Dune (2021)",
+    "score": 3.947313706578653,
+    "avgRating": 3.966893507448961,
+    "ratingCount": 5437,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3224,
+    "title": "Woman in the Dunes (Suna no onna) (1964)",
+    "score": 3.9469917444937934,
+    "avgRating": 4.047912713472486,
+    "ratingCount": 1054,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3362,
+    "title": "Dog Day Afternoon (1975)",
+    "score": 3.9466074627477816,
+    "avgRating": 3.9571584590945195,
+    "ratingCount": 10072,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1952,
+    "title": "Midnight Cowboy (1969)",
+    "score": 3.9456849532290663,
+    "avgRating": 3.95872801082544,
+    "ratingCount": 8129,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7013,
+    "title": "Night of the Hunter, The (1955)",
+    "score": 3.9450119206543093,
+    "avgRating": 3.9870826709062004,
+    "ratingCount": 2516,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2810,
+    "title": "Perfect Blue (1997)",
+    "score": 3.9444162613952614,
+    "avgRating": 3.980637422892392,
+    "ratingCount": 2918,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1292,
+    "title": "Being There (1979)",
+    "score": 3.944007551808381,
+    "avgRating": 3.957721782049617,
+    "ratingCount": 7699,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 120807,
+    "title": "John Mulaney: New In Town (2012)",
+    "score": 3.9431289293176186,
+    "avgRating": 4.095375722543353,
+    "ratingCount": 692,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3152,
+    "title": "Last Picture Show, The (1971)",
+    "score": 3.943028686369492,
+    "avgRating": 3.974639855942377,
+    "ratingCount": 3332,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 203375,
+    "title": "Ford v. Ferrari (2019)",
+    "score": 3.94300167384895,
+    "avgRating": 3.9632947976878614,
+    "ratingCount": 5190,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 85774,
+    "title": "Senna (2010)",
+    "score": 3.9429036364535164,
+    "avgRating": 3.989764129951046,
+    "ratingCount": 2247,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1289,
+    "title": "Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance) (1983)",
+    "score": 3.9423413703842827,
+    "avgRating": 3.971468144044321,
+    "ratingCount": 3610,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 17,
+    "title": "Sense and Sensibility (1995)",
+    "score": 3.941738392360093,
+    "avgRating": 3.9458967046894804,
+    "ratingCount": 25248,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 73881,
+    "title": "3 Idiots (2009)",
+    "score": 3.9416554396138177,
+    "avgRating": 3.987713909609478,
+    "ratingCount": 2279,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2330,
+    "title": "Hands on a Hard Body (1996)",
+    "score": 3.9414405246099524,
+    "avgRating": 4.058659217877095,
+    "ratingCount": 895,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 93040,
+    "title": "Civil War, The (1990)",
+    "score": 3.941083082315031,
+    "avgRating": 4.129263913824057,
+    "ratingCount": 557,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3198,
+    "title": "Papillon (1973)",
+    "score": 3.9410302619913673,
+    "avgRating": 3.960116554361683,
+    "ratingCount": 5491,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 127052,
+    "title": "Operation 'Y' & Other Shurik's Adventures (1965)",
+    "score": 3.940985049359263,
+    "avgRating": 4.116220735785953,
+    "ratingCount": 598,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1036,
+    "title": "Die Hard (1988)",
+    "score": 3.9404669137425015,
+    "avgRating": 3.9426714694978093,
+    "ratingCount": 47472,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2068,
+    "title": "Fanny and Alexander (Fanny och Alexander) (1982)",
+    "score": 3.940370362784102,
+    "avgRating": 3.9829198861325743,
+    "ratingCount": 2459,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 106782,
+    "title": "Wolf of Wall Street, The (2013)",
+    "score": 3.940086167979642,
+    "avgRating": 3.9438314944834505,
+    "ratingCount": 27916,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4878,
+    "title": "Donnie Darko (2001)",
+    "score": 3.939525809030554,
+    "avgRating": 3.9423732511522624,
+    "ratingCount": 36667,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 219994,
+    "title": "The Father (2020)",
+    "score": 3.939002834820278,
+    "avgRating": 4.026404023470243,
+    "ratingCount": 1193,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4432,
+    "title": "Sweet Smell of Success (1957)",
+    "score": 3.938994622608146,
+    "avgRating": 4.025811823480433,
+    "ratingCount": 1201,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 100714,
+    "title": "Before Midnight (2013)",
+    "score": 3.9388805950300276,
+    "avgRating": 3.971680302076778,
+    "ratingCount": 3178,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3097,
+    "title": "Shop Around the Corner, The (1940)",
+    "score": 3.938657184475526,
+    "avgRating": 3.987937559129612,
+    "ratingCount": 2114,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 96488,
+    "title": "Searching for Sugar Man (2012)",
+    "score": 3.9385205818555624,
+    "avgRating": 3.993886230728336,
+    "ratingCount": 1881,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 965,
+    "title": "39 Steps, The (1935)",
+    "score": 3.9384754440996845,
+    "avgRating": 3.9620611551528877,
+    "ratingCount": 4415,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7132,
+    "title": "Night at the Opera, A (1935)",
+    "score": 3.937934866361723,
+    "avgRating": 3.9889597644749752,
+    "ratingCount": 2038,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1245,
+    "title": "Miller's Crossing (1990)",
+    "score": 3.9378696687843893,
+    "avgRating": 3.951398828887443,
+    "ratingCount": 7685,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1246,
+    "title": "Dead Poets Society (1989)",
+    "score": 3.9376828289052233,
+    "avgRating": 3.940874746606057,
+    "ratingCount": 32558,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 166291,
+    "title": "A Silent Voice (2016)",
+    "score": 3.9374479187696343,
+    "avgRating": 4.04972972972973,
+    "ratingCount": 925,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 55721,
+    "title": "Elite Squad (Tropa de Elite) (2007)",
+    "score": 3.9372738033407106,
+    "avgRating": 3.984016208914903,
+    "ratingCount": 2221,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7587,
+    "title": "Samouraï, Le (Godson, The) (1967)",
+    "score": 3.9368736086341647,
+    "avgRating": 4.004569190600522,
+    "ratingCount": 1532,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5878,
+    "title": "Talk to Her (Hable con Ella) (2002)",
+    "score": 3.9368461484403623,
+    "avgRating": 3.9593363695510737,
+    "ratingCount": 4611,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1175,
+    "title": "Delicatessen (1991)",
+    "score": 3.935804806917029,
+    "avgRating": 3.94740383537064,
+    "ratingCount": 8917,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4298,
+    "title": "Rififi (Du rififi chez les hommes) (1955)",
+    "score": 3.935514214334975,
+    "avgRating": 4.025151777970511,
+    "ratingCount": 1153,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7700,
+    "title": "Wages of Fear, The (Salaire de la peur, Le) (1953)",
+    "score": 3.935409171400458,
+    "avgRating": 4.013626040878123,
+    "ratingCount": 1321,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 99764,
+    "title": "It's Such a Beautiful Day (2012)",
+    "score": 3.9349728286130694,
+    "avgRating": 4.077134986225896,
+    "ratingCount": 726,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4262,
+    "title": "Scarface (1983)",
+    "score": 3.9348069164609245,
+    "avgRating": 3.939965994899235,
+    "ratingCount": 19997,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 89759,
+    "title": "Separation, A (Jodaeiye Nader az Simin) (2011)",
+    "score": 3.9347877071371324,
+    "avgRating": 3.9756435643564356,
+    "ratingCount": 2525,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 140174,
+    "title": "Room (2015)",
+    "score": 3.9346497514068877,
+    "avgRating": 3.9501200120012,
+    "ratingCount": 6666,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1104,
+    "title": "Streetcar Named Desire, A (1951)",
+    "score": 3.933895716173165,
+    "avgRating": 3.946370136953097,
+    "ratingCount": 8251,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3037,
+    "title": "Little Big Man (1970)",
+    "score": 3.9331829589138834,
+    "avgRating": 3.9561619324535897,
+    "ratingCount": 4471,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 214,
+    "title": "Before the Rain (Pred dozhdot) (1994)",
+    "score": 3.9330702191298217,
+    "avgRating": 4.030981887511916,
+    "ratingCount": 1049,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 85342,
+    "title": "Elite Squad: The Enemy Within (Tropa de Elite 2 - O Inimigo Agora É Outro) (2010)",
+    "score": 3.9323078825965565,
+    "avgRating": 3.9829545454545454,
+    "ratingCount": 2024,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 100556,
+    "title": "Act of Killing, The (2012)",
+    "score": 3.93200009048852,
+    "avgRating": 4.021378708551484,
+    "ratingCount": 1146,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 215,
+    "title": "Before Sunrise (1995)",
+    "score": 3.9318738324355156,
+    "avgRating": 3.9434634974533105,
+    "ratingCount": 8835,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2997,
+    "title": "Being John Malkovich (1999)",
+    "score": 3.931823127596044,
+    "avgRating": 3.9345334215751158,
+    "ratingCount": 37775,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 61240,
+    "title": "Let the Right One In (Låt den rätte komma in) (2008)",
+    "score": 3.9314156542564724,
+    "avgRating": 3.9450286170637563,
+    "ratingCount": 7513,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2951,
+    "title": "Fistful of Dollars, A (Per un pugno di dollari) (1964)",
+    "score": 3.9314141150281343,
+    "avgRating": 3.942234447735929,
+    "ratingCount": 9452,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2937,
+    "title": "Palm Beach Story, The (1942)",
+    "score": 3.931153587208004,
+    "avgRating": 4.030671859785784,
+    "ratingCount": 1027,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 136449,
+    "title": "Ghost in the Shell 2.0 (2008)",
+    "score": 3.930728834268319,
+    "avgRating": 4.034587995930824,
+    "ratingCount": 983,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6650,
+    "title": "Kind Hearts and Coronets (1949)",
+    "score": 3.9302570380783615,
+    "avgRating": 4.012028869286287,
+    "ratingCount": 1247,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5498,
+    "title": "Red Beard (Akahige) (1965)",
+    "score": 3.9286941403767885,
+    "avgRating": 4.076308139534884,
+    "ratingCount": 688,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 55908,
+    "title": "Man from Earth, The (2007)",
+    "score": 3.928474574547034,
+    "avgRating": 3.951376353790614,
+    "ratingCount": 4432,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 101962,
+    "title": "Wolf Children (Okami kodomo no ame to yuki) (2012)",
+    "score": 3.928026913144417,
+    "avgRating": 4.010586319218241,
+    "ratingCount": 1228,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7234,
+    "title": "Strada, La (1954)",
+    "score": 3.9272000712281145,
+    "avgRating": 3.993451211525868,
+    "ratingCount": 1527,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1274,
+    "title": "Akira (1988)",
+    "score": 3.9260547539360777,
+    "avgRating": 3.9343755155914866,
+    "ratingCount": 12122,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 93721,
+    "title": "Jiro Dreams of Sushi (2011)",
+    "score": 3.925258694548243,
+    "avgRating": 3.967250730079266,
+    "ratingCount": 2397,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7981,
+    "title": "Infernal Affairs (Mou gaan dou) (2002)",
+    "score": 3.925121400969241,
+    "avgRating": 3.9571656050955415,
+    "ratingCount": 3140,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 66371,
+    "title": "Departures (Okuribito) (2008)",
+    "score": 3.9246259948033773,
+    "avgRating": 3.9978150036416604,
+    "ratingCount": 1373,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 32460,
+    "title": "Knockin' on Heaven's Door (1997)",
+    "score": 3.923756271217844,
+    "avgRating": 4.0208131655372705,
+    "ratingCount": 1033,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7063,
+    "title": "Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972)",
+    "score": 3.923104708746495,
+    "avgRating": 3.965605095541401,
+    "ratingCount": 2355,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 581,
+    "title": "Celluloid Closet, The (1995)",
+    "score": 3.922923335159283,
+    "avgRating": 3.972497522299306,
+    "ratingCount": 2018,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2677,
+    "title": "Buena Vista Social Club (1999)",
+    "score": 3.9227358254781524,
+    "avgRating": 3.954661558109834,
+    "ratingCount": 3132,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 170777,
+    "title": "There Once Was a Dog (1982)",
+    "score": 3.9226840912332266,
+    "avgRating": 4.153579676674365,
+    "ratingCount": 433,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 33794,
+    "title": "Batman Begins (2005)",
+    "score": 3.922610658758541,
+    "avgRating": 3.924919168591224,
+    "ratingCount": 43300,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1242,
+    "title": "Glory (1989)",
+    "score": 3.921831185561602,
+    "avgRating": 3.9287855549358617,
+    "ratingCount": 14344,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6331,
+    "title": "Spellbound (2002)",
+    "score": 3.921536444552064,
+    "avgRating": 3.951424287856072,
+    "ratingCount": 3335,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 102666,
+    "title": "Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973)",
+    "score": 3.9214733935626986,
+    "avgRating": 4.054886211512717,
+    "ratingCount": 747,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7566,
+    "title": "28 Up (1985)",
+    "score": 3.9213027514904732,
+    "avgRating": 4.030769230769231,
+    "ratingCount": 910,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1238,
+    "title": "Local Hero (1983)",
+    "score": 3.9211943671473737,
+    "avgRating": 3.9498274870615298,
+    "ratingCount": 3478,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 8684,
+    "title": "Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut) (1956)",
+    "score": 3.92072434473508,
+    "avgRating": 4.065502183406114,
+    "ratingCount": 687,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 36,
+    "title": "Dead Man Walking (1995)",
+    "score": 3.919877082927849,
+    "avgRating": 3.9239437774044177,
+    "ratingCount": 24403,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 66934,
+    "title": "Dr. Horrible's Sing-Along Blog (2008)",
+    "score": 3.919840708608381,
+    "avgRating": 3.938437031484258,
+    "ratingCount": 5336,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2819,
+    "title": "Three Days of the Condor (3 Days of the Condor) (1975)",
+    "score": 3.91948162387003,
+    "avgRating": 3.942676649508657,
+    "ratingCount": 4274,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 168492,
+    "title": "Call Me by Your Name (2017)",
+    "score": 3.919202021936624,
+    "avgRating": 3.948675989288902,
+    "ratingCount": 3361,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 599,
+    "title": "Wild Bunch, The (1969)",
+    "score": 3.9188064818544412,
+    "avgRating": 3.9438401214267644,
+    "ratingCount": 3953,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 77846,
+    "title": "12 Angry Men (1997)",
+    "score": 3.918778200812371,
+    "avgRating": 4.009641873278237,
+    "ratingCount": 1089,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 204698,
+    "title": "Joker (2019)",
+    "score": 3.918516723484718,
+    "avgRating": 3.9264014033968584,
+    "ratingCount": 12541,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 936,
+    "title": "Ninotchka (1939)",
+    "score": 3.9181519914143212,
+    "avgRating": 3.9776974080771548,
+    "ratingCount": 1659,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 65514,
+    "title": "Ip Man (2008)",
+    "score": 3.9179655149910104,
+    "avgRating": 3.9405442487994513,
+    "ratingCount": 4373,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 134853,
+    "title": "Inside Out (2015)",
+    "score": 3.9175060727856943,
+    "avgRating": 3.9218135756093297,
+    "ratingCount": 22894,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 26776,
+    "title": "Porco Rosso (Crimson Pig) (Kurenai no buta) (1992)",
+    "score": 3.9173856850469835,
+    "avgRating": 3.941021337808679,
+    "ratingCount": 4171,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 86345,
+    "title": "Louis C.K.: Hilarious (2010)",
+    "score": 3.917347912630478,
+    "avgRating": 3.9618510158013542,
+    "ratingCount": 2215,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7215,
+    "title": "To Have and Have Not (1944)",
+    "score": 3.9172357706380327,
+    "avgRating": 3.996771589991929,
+    "ratingCount": 1239,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 919,
+    "title": "Wizard of Oz, The (1939)",
+    "score": 3.9168987205636845,
+    "avgRating": 3.9201423206167227,
+    "ratingCount": 30354,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2288,
+    "title": "Thing, The (1982)",
+    "score": 3.9162926291160667,
+    "avgRating": 3.92263517873274,
+    "ratingCount": 15498,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 48774,
+    "title": "Children of Men (2006)",
+    "score": 3.915608590265738,
+    "avgRating": 3.920232821189556,
+    "ratingCount": 21218,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 122912,
+    "title": "Avengers: Infinity War - Part I (2018)",
+    "score": 3.9152729121262757,
+    "avgRating": 3.9213375402128188,
+    "ratingCount": 16164,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 225173,
+    "title": "Soul (2020)",
+    "score": 3.9133125498811387,
+    "avgRating": 3.9336320066680557,
+    "ratingCount": 4799,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 112852,
+    "title": "Guardians of the Galaxy (2014)",
+    "score": 3.9129697886501034,
+    "avgRating": 3.9165034457743926,
+    "ratingCount": 27570,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6433,
+    "title": "Man with the Movie Camera, The (Chelovek s kino-apparatom) (1929)",
+    "score": 3.912807838014333,
+    "avgRating": 4.023972602739726,
+    "ratingCount": 876,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2925,
+    "title": "Conformist, The (Conformista, Il) (1970)",
+    "score": 3.9121351477261856,
+    "avgRating": 3.9882537196554426,
+    "ratingCount": 1277,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3265,
+    "title": "Hard-Boiled (Lat sau san taam) (1992)",
+    "score": 3.9117597684923036,
+    "avgRating": 3.940894089408941,
+    "ratingCount": 3333,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 7116,
+    "title": "Diabolique (Les diaboliques) (1955)",
+    "score": 3.9112246716300416,
+    "avgRating": 3.965546218487395,
+    "ratingCount": 1785,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5475,
+    "title": "Z (1969)",
+    "score": 3.9111763792358687,
+    "avgRating": 4.01690294438386,
+    "ratingCount": 917,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2289,
+    "title": "Player, The (1992)",
+    "score": 3.9110718128927235,
+    "avgRating": 3.9220808723307585,
+    "ratingCount": 8804,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 26003,
+    "title": "Night and Fog (Nuit et brouillard) (1955)",
+    "score": 3.9108282900788067,
+    "avgRating": 4.071192052980132,
+    "ratingCount": 604,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4406,
+    "title": "Man Who Shot Liberty Valance, The (1962)",
+    "score": 3.910743691902079,
+    "avgRating": 3.9496186270574065,
+    "ratingCount": 2491,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2970,
+    "title": "Fitzcarraldo (1982)",
+    "score": 3.910523166983481,
+    "avgRating": 3.963235294117647,
+    "ratingCount": 1836,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1236,
+    "title": "Trust (1990)",
+    "score": 3.9102627494485147,
+    "avgRating": 3.998181818181818,
+    "ratingCount": 1100,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2966,
+    "title": "Straight Story, The (1999)",
+    "score": 3.9101210138885443,
+    "avgRating": 3.93115075048945,
+    "ratingCount": 4597,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 55442,
+    "title": "Persepolis (2007)",
+    "score": 3.9100145509394113,
+    "avgRating": 3.931885041864675,
+    "ratingCount": 4419,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 168252,
+    "title": "Logan (2017)",
+    "score": 3.9096665312724745,
+    "avgRating": 3.916783371415936,
+    "ratingCount": 13567,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1961,
+    "title": "Rain Man (1988)",
+    "score": 3.9095515515344466,
+    "avgRating": 3.9121919194682278,
+    "ratingCount": 36557,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1900,
+    "title": "Children of Heaven, The (Bacheha-Ye Aseman) (1997)",
+    "score": 3.9090618048314685,
+    "avgRating": 3.9981515711645104,
+    "ratingCount": 1082,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1231,
+    "title": "Right Stuff, The (1983)",
+    "score": 3.9090377840846147,
+    "avgRating": 3.9197120708748616,
+    "ratingCount": 9030,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 136469,
+    "title": "Larry David: Curb Your Enthusiasm (1999)",
+    "score": 3.908791500675237,
+    "avgRating": 4.111578947368421,
+    "ratingCount": 475,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 6783,
+    "title": "Rules of the Game, The (La règle du jeu) (1939)",
+    "score": 3.9085831883791022,
+    "avgRating": 3.991789109766638,
+    "ratingCount": 1157,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2918,
+    "title": "Ferris Bueller's Day Off (1986)",
+    "score": 3.9084641756988767,
+    "avgRating": 3.9112446550329367,
+    "ratingCount": 34612,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1111,
+    "title": "Microcosmos (Microcosmos: Le peuple de l'herbe) (1996)",
+    "score": 3.9070729941727773,
+    "avgRating": 3.9537487828627067,
+    "ratingCount": 2054,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 4914,
+    "title": "Breathless (À bout de souffle) (1960)",
+    "score": 3.9069588398269963,
+    "avgRating": 3.940376569037657,
+    "ratingCount": 2868,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 44191,
+    "title": "V for Vendetta (2006)",
+    "score": 3.9069578303694787,
+    "avgRating": 3.909582625842143,
+    "ratingCount": 36514,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 265,
+    "title": "Like Water for Chocolate (Como agua para chocolate) (1992)",
+    "score": 3.906089250249468,
+    "avgRating": 3.913583633798401,
+    "ratingCount": 12758,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 57669,
+    "title": "In Bruges (2008)",
+    "score": 3.9058006772962885,
+    "avgRating": 3.9118203011782495,
+    "ratingCount": 15871,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 171749,
+    "title": "Death Note: Desu nôto (2006–2007)",
+    "score": 3.905684102977106,
+    "avgRating": 4.093320235756385,
+    "ratingCount": 509,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 54286,
+    "title": "Bourne Ultimatum, The (2007)",
+    "score": 3.905520514330423,
+    "avgRating": 3.9089132134480065,
+    "ratingCount": 28138,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2067,
+    "title": "Doctor Zhivago (1965)",
+    "score": 3.9049685126966764,
+    "avgRating": 3.9183917758062243,
+    "ratingCount": 7101,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5385,
+    "title": "Last Waltz, The (1978)",
+    "score": 3.9048260549021583,
+    "avgRating": 3.9852320675105486,
+    "ratingCount": 1185,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1192,
+    "title": "Paris Is Burning (1990)",
+    "score": 3.9047064892097247,
+    "avgRating": 3.968291054739653,
+    "ratingCount": 1498,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 52885,
+    "title": "Paprika (Papurika) (2006)",
+    "score": 3.903939950128685,
+    "avgRating": 3.9277138569284644,
+    "ratingCount": 3998,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 157373,
+    "title": "It's Such a Beautiful Day (2011)",
+    "score": 3.90387162013253,
+    "avgRating": 4.1935975609756095,
+    "ratingCount": 328,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 5418,
+    "title": "Bourne Identity, The (2002)",
+    "score": 3.9037434083479745,
+    "avgRating": 3.906185726038667,
+    "ratingCount": 38896,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 665,
+    "title": "Underground (1995)",
+    "score": 3.9033195896937434,
+    "avgRating": 3.963717377466582,
+    "ratingCount": 1571,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 86347,
+    "title": "Louis C.K.: Chewed Up (2008)",
+    "score": 3.90317501366716,
+    "avgRating": 3.9574042309891366,
+    "ratingCount": 1749,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 81845,
+    "title": "King's Speech, The (2010)",
+    "score": 3.9029549914245996,
+    "avgRating": 3.907464674818022,
+    "ratingCount": 21019,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3814,
+    "title": "Love and Death (1975)",
+    "score": 3.902882524399482,
+    "avgRating": 3.94603825136612,
+    "ratingCount": 2196,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 29,
+    "title": "City of Lost Children, The (Cité des enfants perdus, La) (1995)",
+    "score": 3.9028472289408223,
+    "avgRating": 3.9119195787458114,
+    "ratingCount": 10445,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 2932,
+    "title": "Days of Heaven (1978)",
+    "score": 3.9027636890488946,
+    "avgRating": 3.946685210941122,
+    "ratingCount": 2157,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 106920,
+    "title": "Her (2013)",
+    "score": 3.9021150860572216,
+    "avgRating": 3.9074873601090725,
+    "ratingCount": 17603,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 33154,
+    "title": "Enron: The Smartest Guys in the Room (2005)",
+    "score": 3.9018847982933726,
+    "avgRating": 3.9514690451206715,
+    "ratingCount": 1906,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 27815,
+    "title": "Chorus, The (Choristes, Les) (2004)",
+    "score": 3.9018840630484735,
+    "avgRating": 3.9488325881768507,
+    "ratingCount": 2013,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1265,
+    "title": "Groundhog Day (1993)",
+    "score": 3.9018579424604063,
+    "avgRating": 3.9038285094670115,
+    "ratingCount": 47956,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1449,
+    "title": "Waiting for Guffman (1996)",
+    "score": 3.901627053134952,
+    "avgRating": 3.9149190710767066,
+    "ratingCount": 7105,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 3038,
+    "title": "Face in the Crowd, A (1957)",
+    "score": 3.901592573111628,
+    "avgRating": 4.020075282308658,
+    "ratingCount": 797,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 1927,
+    "title": "All Quiet on the Western Front (1930)",
+    "score": 3.901541791232786,
+    "avgRating": 3.9319793681495807,
+    "ratingCount": 3102,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 158966,
+    "title": "Captain Fantastic (2016)",
+    "score": 3.9015191403327565,
+    "avgRating": 3.930857675574891,
+    "ratingCount": 3218,
+    "reason": "Popular (weighted by rating count)"
+  },
+  {
+    "movieId": 76093,
+    "title": "How to Train Your Dragon (2010)",
+    "score": 3.9013810327654754,
+    "avgRating": 3.905902644691453,
+    "ratingCount": 20872,
+    "reason": "Popular (weighted by rating count)"
+  }
+]

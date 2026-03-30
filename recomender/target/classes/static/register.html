@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Register</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body { visibility: hidden; }
+    .password-row { display: flex; gap: 10px; align-items: center; }
+    .password-row input { margin-bottom: 14px; }
+    .password-row button { margin-bottom: 14px; white-space: nowrap; }
+  </style>
+</head>
+<body onload="redirectIfAlreadyLoggedIn()">
+  <div class="auth-box">
+    <div class="kicker">Create your space</div>
+    <h2>Register</h2>
+    <p class="auth-subtitle">Make an account to rate movies and unlock personalized recommendations.</p>
+
+    <label for="registerName">Name</label>
+    <input type="text" id="registerName" placeholder="Enter name" autocomplete="off" />
+
+    <label for="registerEmail">Email</label>
+    <input type="email" id="registerEmail" placeholder="Enter email" autocomplete="off" />
+
+    <label for="registerPassword">Password</label>
+    <div class="password-row">
+      <input type="password" id="registerPassword" placeholder="Enter password" autocomplete="new-password" />
+      <button
+        type="button"
+        class="soft-btn"
+        id="registerPasswordToggle"
+        onclick="togglePassword('registerPassword','registerPasswordToggle')">
+        Show
+      </button>
+    </div>
+
+    <button type="button" class="primary-btn" style="width:100%;" onclick="register()">Register</button>
+
+    <div id="registerMessage"></div>
+
+    <p class="center-text">
+      Already have an account? <a href="login.html">Login here</a>
+    </p>
+  </div>
+
+  <script src="common.js"></script>
+  <script src="auth.js"></script>
+</body>
+</html>

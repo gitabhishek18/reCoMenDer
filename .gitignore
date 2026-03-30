@@ -1,0 +1,43 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Maven / Java
+backend/target/
+*.class
+
+# Backend local noise
+backend/HELP.md
+backend/cp_tmp.txt
+backend/.vscode/
+backend/.gitignore
+backend/.gitattributes
+
+# Root trainer outputs
+artifacts/*
+!artifacts/
+!artifacts/README.md
+
+# Raw datasets
+data/raw/*
+!data/raw/
+!data/raw/README.txt
+
+# Optional screenshot placeholders can stay tracked

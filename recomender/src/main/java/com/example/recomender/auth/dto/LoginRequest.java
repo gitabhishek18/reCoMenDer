@@ -1,0 +1,18 @@
+package com.example.recomender.auth.dto;
+
+import jakarta.validation.constraints.Email;
+import jakarta.validation.constraints.NotBlank;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@NoArgsConstructor
+public class LoginRequest {
+    @NotBlank(message = "email is required")
+    @Email(message = "email format is invalid")
+    private String email;
+    @NotBlank(message = "Password is required")
+    private String password;
+}
