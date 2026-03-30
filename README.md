@@ -122,7 +122,3 @@ Runtime artifact files currently expected by the backend:
 - Review `trainer/scripts/config.py` for local database settings.
 - Replace the placeholder files in `screenshots/` with actual screenshots.
 - Keep generated data and build output out of Git by using the provided `.gitignore`.
-
-## Suggested Repository Name
-
-`movie-recommendation-system`
